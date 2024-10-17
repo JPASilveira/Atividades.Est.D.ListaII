@@ -1,0 +1,1 @@
+A questão em si pode ser respondida apenas com analise, a saída neste caso seria um inteiro de valor 4.
